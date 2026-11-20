@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "mayerpath: persistent Mayer path homology and Laplacians"
+version: 0.1.0
+authors:
+  - family-names: Karaguler
+    given-names: Dilan
+license: MIT
+preferred-citation:
+  type: article
+  title: "Persistent Mayer Path Homology and Laplacians for Directed Networks"
+  authors:
+    - family-names: Karaguler
+      given-names: Dilan
+    - family-names: Wei
+      given-names: Guo-Wei
+  year: 2026
