@@ -4,7 +4,7 @@ Code for computing **Mayer path homology**, **Mayer path Laplacians** and their
 **persistent** versions for directed graphs, together with the scripts that
 reproduce the examples of the paper
 
-> D. Karaguler and G.-W. Wei, *Persistent Mayer Path Homology and Laplacians for Directed Networks* (2026).
+> D. Karaguler and G.-W. Wei, *Persistent Mayer Path Homology and Mayer Path Laplacian* (2026).
 
 Mayer path homology replaces the condition ∂² = 0 of path homology by ∂ᴺ = 0,
 using an N-th root of unity in the boundary operator. N = 2 gives ordinary
